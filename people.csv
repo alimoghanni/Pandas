@@ -1,0 +1,10 @@
+first,last,email,age,occupation,nationality,born,male
+Agatha,Christie,AgathaChristie@mail.com,85.0,Novelist,English,15 September 1890,No
+Hercule,Poirot,HerculePoirot@mail.com,54.0,Private investigator,Belgian,,Yes
+Jane,Marple,,,Amateur detective,British,December 1927,No
+David,Tom,DavidTom@gmail.com,,Actor,American,"March 23, 1978",Yes
+Nicholle,Tom,NicholleTom@gmail.com,42.0,Actress,American,"March 23, 1978",No
+Bruce,Lee,BruceLee@yahoo.com,32.0,Martial artist,Chinese,"November 27, 1940",Yes
+Jacob,Gyllenhaal,JacobGyllenhaal@mail.com,39.0,Actor,American,"December 19, 1980",Yes
+Maggie,Gyllenhaal,MaggieGyllenhaal@mail.com,42.0,producer,American,"November 16, 1977",No
+Cristiano,Ronaldo,CristianoRonaldo@mail.com,35.0,footballer,Portuguese,"February 5, 1985",Yes
